@@ -9,7 +9,7 @@ const List = props => {
 	);
 	return (
 		<ul className={style.TodoList}>
-			{ListElements}
+			{listElements}
 		</ul>
 	);
 }
